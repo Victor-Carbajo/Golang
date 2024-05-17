@@ -1,6 +1,10 @@
 ![Logo do Curso](/Imagens/Logo.jpg)
 
+:::
+
 # [Aulas](/Aulas/) | [Exercícios](/Exercícios/) | [Imagens](/Imagens/)
+
+:::
 
 ## :computer: **Curso Gratuito de GO**
 
